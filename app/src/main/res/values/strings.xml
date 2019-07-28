@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageCamera</string>
+    <string name="ambil_gambar" />
+    <string name="lihat_gambar_lainnya" />
+</resources>
